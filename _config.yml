@@ -1,0 +1,14 @@
+layout_spectrum: 0.9576092851348221
+typography_spectrum: 0.7234077784232795
+color:
+  brandStrength: 0.2363258379045874
+  lightness: 0.920012918068096
+  saturation: 0.6319985943846405
+  rhythmicContrast: 0.006221127696335316
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: AutoAdvice
